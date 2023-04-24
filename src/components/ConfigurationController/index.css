@@ -1,0 +1,23 @@
+.configuration-container {
+  background-color: #475569;
+  padding-left: 80px;
+  padding-top: 5px;
+
+  height: 20vh;
+}
+.configuration-heading {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.configuration-checkbox {
+  margin-right: 10px;
+}
+
+.input-container {
+  margin: 5px;
+}
+.configuration-checkbox-label {
+  color: white;
+  font-size: 14px;
+}
